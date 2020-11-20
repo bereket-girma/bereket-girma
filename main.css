@@ -168,6 +168,7 @@ h3 {
 span a {
   text-emphasis: none;
   color: #ebdf68;
+  text-decoration: none;
 }
 .punchCode {
   color: #ebdf68;
